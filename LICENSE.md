@@ -1,6 +1,6 @@
 <a rel=license href=http://creativecommons.org/licenses/by-nd/4.0/><img alt="Creative Commons License" style="border-width:0" src=https://i.creativecommons.org/l/by-nd/4.0/88x31.png></a>
 
-The data format specifications in this repository are licensed as <span xmlns:dct=http://purl.org/dc/terms/ property="dct:title">Discourse Functional Transcription</span> by <a xmlns:cc=http://creativecommons.org/ns# href=https://github.com/digitallinguistics/DFT property="cc:attributionName" rel="cc:attributionURL">John W. DuBois</a> under a <a rel=license href=http://creativecommons.org/licenses/by-nd/4.0/>Creative Commons Attribution-NoDerivatives 4.0 International License</a>.
+The data format specifications in this repository are licensed as <span xmlns:dct=http://purl.org/dc/terms/ property="dct:title">Discourse Functional Transcription</span> by <a xmlns:cc=http://creativecommons.org/ns# href=https://github.com/digitallinguistics/DFT property="cc:attributionName" rel="cc:attributionURL">John W. DuBois & Daniel W. Hieber</a> under a <a rel=license href=http://creativecommons.org/licenses/by-nd/4.0/>Creative Commons Attribution-NoDerivatives 4.0 International License</a>.
 
 <a rel=license href=http://creativecommons.org/licenses/by-nd/3.0/us/><img alt="Creative Commons License" style="border-width:0" src=https://i.creativecommons.org/l/by-nd/3.0/us/88x31.png></a>
 

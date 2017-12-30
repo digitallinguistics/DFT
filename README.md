@@ -6,6 +6,8 @@ _Discourse Functional Transcription_ (DFT) is a system for transcribing natural 
 
 * a set of transcription conventions for representing various aspects of speech and its context
 
+This repository contains specifications for formatting data in DFT, and the set of transcription conventions it uses.
+
 ## Versioning
 
 DFT is the successor to two earlier versions of this system—DT1 and DT2 (where DT = Discourse Transcription).

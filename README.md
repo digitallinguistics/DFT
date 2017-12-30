@@ -26,6 +26,8 @@ DFT    | v3.0+
 
 If you see any issues in the specifications, or have any questions, please [open an issue][7].
 
+Please see the [license for this repository][8] to view the licenses for different parts of this project.
+
 [1]: http://www.linguistics.ucsb.edu/people/john-w-du-bois
 [2]: https://semver.org
 [3]: https://github.com/digitallinguistics/DFT/releases
@@ -33,3 +35,4 @@ If you see any issues in the specifications, or have any questions, please [open
 [5]: http://www.linguistics.ucsb.edu/projects/transcription/representing
 [6]: https://www.amazon.com/Talking-Data-Transcription-Discourse-Research/dp/0805803491/ref=sr_1_1?ie=UTF8&qid=1514610009&sr=8-1&keywords=talking+data+discourse
 [7]: https://github.com/digitallinguistics/DFT/issues
+[8]: https://github.com/digitallinguistics/DFT/blob/master/LICENSE.md

@@ -28,7 +28,7 @@ For more information on DT1 and DT2, see the following sources:
 
 * [John W. Du Bois. 2018. _Representing Discourse_. Manuscript.][5]
 
-## Citations
+## Citations & Attributions
 
 This project uses [Zenodo][10] to publish the code in this repository with a citable Digital Object Identifier (DOI). Click the DOI link below to cite this repository.
 
@@ -41,6 +41,8 @@ You can also cite specific versions of the specification (if you want to refer t
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1134008.svg)](https://doi.org/10.5281/zenodo.1134008)
 
 To cite data from the Santa Barbara Corpus (SBC), [use the citation guidelines found here][9].
+
+[Andrea L. Berez-Kroeker][11] helped specify the conversions between different versions of DFT.
 
 ## Issues
 
@@ -60,3 +62,4 @@ Please see the [license for this repository][8] to view the licenses for differe
 [8]: https://github.com/digitallinguistics/DFT/blob/master/LICENSE.md
 [9]: http://www.linguistics.ucsb.edu/research/santa-barbara-corpus#Citing
 [10]: https://zenodo.org
+[11]: http://www2.hawaii.edu/~aberez/

@@ -42,8 +42,6 @@ You can also cite specific versions of the specification (if you want to refer t
 
 To cite data from the Santa Barbara Corpus (SBC), [use the citation guidelines found here][9].
 
-[Andrea L. Berez-Kroeker][11] helped specify the conversions between different versions of DFT.
-
 ## Issues
 
 If you see any issues in the specifications, or have any questions, please [open an issue][7].
@@ -62,4 +60,3 @@ Please see the [license for this repository][8] to view the licenses for differe
 [8]: https://github.com/digitallinguistics/DFT/blob/master/LICENSE.md
 [9]: http://www.linguistics.ucsb.edu/research/santa-barbara-corpus#Citing
 [10]: https://zenodo.org
-[11]: http://www2.hawaii.edu/~aberez/

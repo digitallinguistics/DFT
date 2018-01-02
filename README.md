@@ -50,6 +50,13 @@ If you see any issues in the specifications, or have any questions, please [open
 
 Please see the [license for this repository][8] to view the licenses for different parts of this project.
 
+## Other Contributors
+
+* [Andrea L. Berez-Kroeker](http://www2.hawaii.edu/~aberez/)
+* [Matthew Cecil](https://www.linkedin.com/in/matthew-cecil-071b3862/)
+* Venkat Patnala
+* [Kevin Schäfer](http://www.linguistics.ucsb.edu/people/kevin-schäfer)
+
 [1]: http://www.linguistics.ucsb.edu/people/john-w-du-bois
 [2]: https://semver.org
 [3]: https://github.com/digitallinguistics/DFT/releases

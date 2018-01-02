@@ -1,4 +1,4 @@
-# Discourse Functional Transcription (DFT)
+# [Discourse Functional Transcription (DFT)][11]
 
 _Discourse Functional Transcription_ (DFT) is a system for transcribing natural language discourse developed by [John W. DuBois][1] (Department of Linguistics, University of California, Santa Barbara). It consists of two components:
 
@@ -8,17 +8,42 @@ _Discourse Functional Transcription_ (DFT) is a system for transcribing natural 
 
 This repository contains specifications for formatting data in DFT, and the set of transcription conventions it uses.
 
+This project is useful for anybody who wants to transcribe naturally-occurring discourse.
+
+This repository is maintained by [Daniel W. Hieber][12], in collaboration with [John W. DuBois][1].
+
+<!-- BADGES -->
+<!-- Informational -->
+[![GitHub release](https://img.shields.io/github/release/digitallinguistics/DFT.svg)][3]
+[![GitHub issues](https://img.shields.io/github/issues/digitallinguistics/DFT.svg)][7]
+[![GitHub license](https://img.shields.io/github/license/digitallinguistics/DFT.svg)][8]
+[![Zenodo](https://zenodo.org/badge/DOI/10.5281/zenodo.1134008.svg)][13]
+
+
+<!-- Social -->
+[![GitHub stars](https://img.shields.io/github/stars/digitallinguistics/DFT.svg?style=social)](https://github.com/digitallinguistics/DFT/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/digitallinguistics/DFT.svg?style=social)](https://github.com/digitallinguistics/DFT/network)
+
+## [Specification][14]
+
+The specification for the DFT data format and transcription conventions may be found in the [`/spec` folder][14].
+
+Earlier versions of the specification also exist, and can be located in the folders listed below:
+
+- `/DT1` - Discourse Transcription 1 (v0.1.x)
+- `/DT2` - Discourse Transcription 2 (v0.2.x)
+
 ## Versioning
 
 DFT is the successor to two earlier versions of this system—DT1 and DT2 (where DT = Discourse Transcription).
 
-This repository contains specifications for formatting data in the DT1, DT2, and DFT systems, and the set of transcription conventions used by each. It uses a form of [semantic versioning][2] to track changes to the DFT specification, where DT1 is considered v1.0, DT2 is v2.0, and DFT is v3.0. Each new version release may be viewed on the [releases page][3].
+This repository contains specifications for formatting data in the DT1, DT2, and DFT systems, and the set of transcription conventions used by each. It uses a form of [semantic versioning][2] to track changes to the DFT specification, where DT1 is considered v0.1.x, DT2 is v0.2.x, and DFT is v1.x. Each new version release may be viewed on the [releases page][3].
 
 System | Version
 ------ | -----------
-DT1    | v1.0
-DT2    | v2.0
-DFT    | v3.0+
+DT1    | v0.1.x
+DT2    | v0.2.x
+DFT    | v1.x
 
 For more information on DT1 and DT2, see the following sources:
 
@@ -38,7 +63,7 @@ To cite the latest version of the data format specifications in this repository,
 
 You can also cite specific versions of the specification (if you want to refer to the DT1 format, for instance), by selecting the version on Zenodo and copying its citation:
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1134008.svg)](https://doi.org/10.5281/zenodo.1134008)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1134008.svg)][13]
 
 To cite data from the Santa Barbara Corpus (SBC), [use the citation guidelines found here][9].
 
@@ -67,3 +92,7 @@ Please see the [license for this repository][8] to view the licenses for differe
 [8]: https://github.com/digitallinguistics/DFT/blob/master/LICENSE.md
 [9]: http://www.linguistics.ucsb.edu/research/santa-barbara-corpus#Citing
 [10]: https://zenodo.org
+[11]: https://github.com/digitallinguistics/DFT
+[12]: https://danielhieber.com
+[13]: https://doi.org/10.5281/zenodo.1134008
+[14]: https://github.com/digitallinguistics/DFT/tree/master/spec

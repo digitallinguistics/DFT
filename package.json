@@ -1,6 +1,6 @@
 {
   "name": "dft",
-  "version": "1.0.0-alpha.1",
+  "version": "0.1.0-alpha.1",
   "description": "The specification for the Discourse Functional Transcription data format and transcription conventions",
   "keywords": [
     "linguistics",
